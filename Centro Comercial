@@ -1,0 +1,78 @@
+<html>
+<head>
+<title> Antara Fashion Hall</title>
+<div>
+<marquee bgcolor="#E7EDE7" behavior="alternate">
+<img src="face.png" width="40" height="40"> 
+<img src="pajaro1.png" width="40" height="40"> 
+<img src="insta.jpg" width="40" height="40"> 
+<img src="pinterest.jpg" width="40" height="40"> 
+</marquee> 
+
+<img src="anuncio8.jpg" WIDTH="1355" HEIGHT="380">
+</div>
+</head>
+
+
+<body>
+
+<BODY BACKGROUND="fondo plata.jpg">
+<FONT COLOR="#00000" SIZE="20" FACE="Belinda Script"> <p> <marquee DIRECTION="left"> Antara Fashion Hall.</marquee> </p> </font>
+<FONT COLOR="#00000" SIZE="10" FACE="OrangeBlossoms"> Novedades </font>
+
+<p> <a href="file:///C:/Users/janet/Desktop/centro%20comercial/pepejeans.html"> <img src="novedades.jpg" align="left" hspace="20" vspace="20" width="200" height="200"> </a>
+<font face="Spring Holiday" size="7"> Pepe Jeans <br>
+<font face="Arial" size="3"> Prepárate para recibir el otoño con <br> Pepe Jeans London.</p> </font>
+
+<p> <a href="file:///C:/Users/janet/Desktop/centro%20comercial/sephora.html"> <img src="s.png" align="left" hspace="20" vspace="20" width="200" height="200"> </a>
+<font face="Spring Holiday" size="7"> Sephora <br>
+<font face="Arial" size="3"> En la compra de $3000.00 incluyendo una fragancia de 75 ml<br>
+obtén un cupón del 20% del total de tu compra. Válido al 17 de Octubre,<br>
+redimible hasta el 31 de Octubre de 2018. Aplica restricciones. </p> </font>
+
+<p> <a href="file:///C:/Users/janet/Desktop/centro%20comercial/sephora.html"> <img src="coach.jpg" align="left" hspace="20" vspace="20" width="200" height="200"> </a>
+<font face="Spring Holiday" size="7"> Coach <br>
+<font face="Arial" size="3">En este Buen Fin la tienda Coach tendra el 20% de la tienda del 16-11 de nov hata agotar existencias. </p> </font>
+
+<p> <a href="http://www.antara.com.mx/"> <img src="polanco.jpg" align="left" hspace="20" vspace="20" width="200" height="200"> </a>
+<font face="Spring Holiday" size="7"> Pagina Oficial <br> </font>
+<font face="Arial" size="3"> Es un centro comercial al aire libre de lujo en Polanco, Ciudad de México, México. Es considerado como uno de los destinos de 
+compras más exclusivos de México. </p> </font>
+
+<br> <FONT COLOR="#00000" SIZE="10" FACE="OrangeBlossoms"> <p aling="left"> Direccion </font> <br> </p> 
+<font face="Arial" size="3"> <p aling="justify"> Av Ejército Nacional 843, Granada, 11520 Ciudad de México, CDMX </font> </p> 
+<marquee>
+<div>
+<img src="direccion.jpg" width="1000" height="500" >
+</div>
+</marquee>
+
+<FONT COLOR="#00000" SIZE="10" FACE="OrangeBlossoms"> <p aling="left"> Horario </font> </p> 
+<table border="2" width="200" height="170">
+<font face="Arial" size="3"> <tr> <th>Dia</th><th>Horarios</th> </tr> </font> 
+<font face="Arial" size="3"> <tr> <td>Lunes</td><td> 11am-23pm</td> </tr> </font> 
+<font face="Arial" size="3"> <tr> <td>Martes</td><td> 11am-23pm</td> </td></tr> </font>
+<font face="Arial" size="3"> <tr> <td>Miercoles</td><td> 11am-23pm</td> </tr> </font> 
+<font face="Arial" size="3"> <tr> <td>Jueves</td><td> 11am-23pm</td> </tr> </font>
+<font face="Arial" size="3"> <tr> <td>Viernes</td><td> 11am-23pm</td> </tr> </font>
+</table>
+
+<div align="right">
+<img src="antaraf.jpg" width="600" height="300">
+</div>
+
+
+<br> <FONT COLOR="#00000" SIZE="10" FACE="OrangeBlossoms"> <p aling="left"> Contacto </font> <br> </p> 
+<font face="Arial" size="3"> <p aling="justify">Centro de atención a clientes:
+4593-8870</font> </p> 
+
+<div align="center">
+<img src="App.png" width="600" height="300">
+</div>
+
+<p> <embed src="music.mp3" width="145" height="60" autoplay="true"></embed> sonido.</p>
+<p> <bgsound src="music.mp3"loop="3"></bgsound> </p>
+
+
+</body>
+</html>
